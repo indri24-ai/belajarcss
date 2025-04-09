@@ -1,0 +1,30 @@
+h1 {
+  color: crimson;
+  text-align: center;
+  background-color: blanchedalmond;
+  border: red solid;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+p {
+  color: black;
+  border: 5px red solid;
+  border-style: double;
+  padding: 30px;
+  line-height: 30px;
+  background-color: blanchedalmond;
+}
+#terserah {
+  background-image: url("../img/download.jpeg");
+  background-size: cover;
+}
+#terserah h1 {
+  color: black;
+  background-color: transparent;
+  border: none;
+}
